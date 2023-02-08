@@ -12,6 +12,9 @@ function suma(x,y){
     return x+y
 }
 
+console.log("hello world");
 module.exports = suma;
+
+
 
 
